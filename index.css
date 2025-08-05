@@ -27,6 +27,10 @@ h2 {
     margin-bottom: 40px;
 }
 
+h1, h2, p {
+    color: #212121;
+}
+
 button {
     border: none;
     padding-top: 10px;
